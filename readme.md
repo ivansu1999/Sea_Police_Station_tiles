@@ -42,10 +42,12 @@ This map layer is the combination of the two previous map layers, whcih shows th
 3. Max zoom: 11
 
 ![](img/map3.png)
+
 ## 4. Map Layer4
-This map layer is the topic map using photo searching, and create a colored map style from the system. The generating machine we utilized is [Catogram](https://apps.mapbox.com/cartogram/#11.82/40.71858/-73.97763). 
+This map layer is the topic map using photo searching, and create a colored map style from the system. The generating machine we utilized is [Catogram](https://apps.mapbox.com/cartogram/#11.82/40.71858/-73.97763). By inputing the Seattle police bedge, we receive the blue green style map and output the style into tiles map by QGIS.
+
 ![](img/bedge.png)
-By inputing the Seattle police bedge, we receive the blue green style map and output the style into tiles map by QGIS.
+
 ![](img/map4.png)
 
 ## Resourse:
