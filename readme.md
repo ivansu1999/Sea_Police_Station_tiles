@@ -4,8 +4,9 @@
 
 
 
-## Introduuction
+## Introduction
 [The Map](https://ivansu1999.github.io/Sea_Police_Station_tiles/index.html)
+This is a lab working on tiles map. This type of map is structured by pngs and labeled by size looking up from the location. The map I create is located the Seattle area sharing about topics of police stations. There are four different layers that this web map could choose. However, since the data could be upload to the github is limited, I decided to only create a tile map from zoom 9-11.
 
 ![](img/map0.png)
 
